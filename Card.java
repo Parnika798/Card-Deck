@@ -20,6 +20,8 @@ public class Card {
     public String getRank() {
         return rank;
     }
+    
+    
 
     // Method to print a single card's details
     public void printCard() {
