@@ -33,6 +33,7 @@ public class Card {
     public boolean sameCard(Card other) {
         return this.suit.equals(other.suit);
     }
+    
 
     // Method to compare if two cards have the same rank
     public boolean compareCard(Card other) {
