@@ -2,6 +2,7 @@ Project Description -
 
 This is a menu-driven Java program that simulates a deck of 52 playing cards. The program includes various operations like creating a deck, printing cards, shuffling, dealing random cards, and searching for specific cards.
 
+
 Project Structure -
 
 
@@ -10,6 +11,7 @@ Card.java → Defines the Card class with suit & rank.
 Deck.java → Manages deck operations (create, shuffle, deal, etc.).
 
 Main.java → Implements a menu-driven system for user interaction.
+
 
 
 Features & Methods - 
