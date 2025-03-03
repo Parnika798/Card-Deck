@@ -14,6 +14,7 @@ public class Card {
     public String getSuit() {
         return suit;
     }
+    
 
     // Getter method to retrieve rank of the card
     public String getRank() {
