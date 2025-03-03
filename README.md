@@ -6,7 +6,9 @@ Project Structure -
 
 
 Card.java → Defines the Card class with suit & rank.
+
 Deck.java → Manages deck operations (create, shuffle, deal, etc.).
+
 Main.java → Implements a menu-driven system for user interaction.
 
 
